@@ -16,7 +16,7 @@ public class HojaDeTrabajo6 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        SinglentonHsh HashRunSet = SinglentonHsh.getInstance();
+        Singlenton HashRunSet = Singlenton.getInstance();
     }
     
 }
